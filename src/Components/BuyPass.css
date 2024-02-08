@@ -1,0 +1,16 @@
+.loginImage{
+    object-fit: cover;
+    object-position: left;
+}
+
+
+.loginForm{
+    width: 23rem;
+}
+
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 500!important;
+}

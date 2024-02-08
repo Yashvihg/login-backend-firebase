@@ -1,0 +1,20 @@
+{
+    "users": [
+      {
+        "id": 11,
+        "fullName": "yashvi",
+        "phoneNumber": "9789902608"
+      },
+      {
+        "id": 22,
+        "fullName": "mommy",
+        "phoneNumber": "507952127"
+      },
+      {
+        "id": 33,
+        "fullName": "papa",
+        "phoneNumber": "502551502"
+      }
+    ]
+  }
+  

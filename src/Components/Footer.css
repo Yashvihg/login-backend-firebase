@@ -1,0 +1,27 @@
+.mainContainer {
+    background-color: #f0ab52;
+}
+
+.footer_list,
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.footer_list li {
+    padding-bottom: 10px;
+    font-size: 15px;
+
+}
+
+.footer_heading {
+    padding-bottom: 10px;
+    
+}
+
+.footer_para{
+    font-size: 15px;
+    line-height: 2;
+    
+    
+}
